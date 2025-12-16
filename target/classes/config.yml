@@ -1,0 +1,48 @@
+#=========================================
+#CEZESSENTIALS Configuration
+#Author: clippyclip (clipson)
+#=========================================
+# Message settings for ingame chat
+messages:
+  prefix: "<gray>[<gold>CEZ</gold>]</gray> "
+
+  no-permission: "<red>You do not have permission.</red>"
+  players-only: "<red>This command can only be used by players.</red>"
+
+  invalid-usage: "<red>Usage: <usage></red>"
+
+  spawn-set: "<green>Spawn set.</green>"
+  teleported-spawn: "<green>Teleported to spawn.</green>"
+
+  home-set: "<green>Home set.</green>"
+  home-teleport: "<green>Teleported home.</green>"
+  home-not-set: "<red>You do not have a home set.</red>"
+  home-deleted: "<green>Home deleted.</green>"
+
+  warp-set: "<green>Warp set: <yellow><name></yellow></green>"
+  warp-teleport: "<green>Warped to <yellow><name></yellow></green>"
+  warp-not-found: "<red>Warp not found.</red>"
+  warp-deleted: "<green>Warp deleted.</green>"
+
+  tpa-sent: "<green>Teleport request sent to <yellow><target></yellow>.</green>"
+  tpa-received: "<yellow><player></yellow> <gray>wants to teleport to you.</gray>\n<green>/tpaccept</green> <gray>or</gray> <red>/tpdeny</red>"
+  tpa-accepted: "<green>Teleport request accepted.</green>"
+  tpa-denied: "<red>Teleport request denied.</red>"
+  tpa-none: "<red>No pending teleport request.</red>"
+
+  reload-complete: "<green>CEZESSENTIALS reloaded.</green>"
+
+  help-header: "<gray>----- <gold>CEZESSENTIALS</gold> -----</gray>"
+  help-line: "<yellow><command></yellow> <gray>- <description></gray>"
+
+# General plugin settings
+settings:
+  debug: false
+
+# Spawn Location (x, y, z, yaw, pitch)
+spawn:
+  x: 0
+  y: 64
+  z: 0
+  yaw: 0
+  pitch: 0
