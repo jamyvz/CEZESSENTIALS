@@ -1,3 +1,11 @@
+![Java](https://img.shields.io/badge/Java-21+-orange)
+![Paper](https://img.shields.io/badge/Paper-1.21.x-blue)
+![License](https://img.shields.io/github/license/jamyvz/CEZESSENTIALS)
+![GitHub Release](https://img.shields.io/github/v/release/jamyvz/CEZESSENTIALS)
+
+[![Hangar](https://img.shields.io/badge/Hangar-CEZESSENTIALS-blue)](https://hangar.papermc.io/clippyclip/CEZESSENTIALS)
+[![Modrinth](https://img.shields.io/badge/Modrinth-CEZESSENTIALS-green)](https://modrinth.com/plugin/cezessentials)
+
 CEZESSENTIALS
 
 CEZESSENTIALS is a clean, modular Essentials-style plugin for Paper servers.
